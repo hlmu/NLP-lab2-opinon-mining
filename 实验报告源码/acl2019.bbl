@@ -1,0 +1,129 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Carenini et~al.(2005)Carenini, Ng, and
+  Zwart}]{carenini2005extracting}
+Giuseppe Carenini, Raymond~T Ng, and Ed~Zwart. 2005.
+\newblock Extracting knowledge from evaluative text.
+\newblock In \emph{Proceedings of the 3rd international conference on Knowledge
+  capture}, pages 11--18. ACM.
+
+\bibitem[{Che et~al.(2010)Che, Li, and Liu}]{che2010ltp}
+Wanxiang Che, Zhenghua Li, and Ting Liu. 2010.
+\newblock Ltp: A chinese language technology platform.
+\newblock In \emph{Proceedings of the 23rd International Conference on
+  Computational Linguistics: Demonstrations}, pages 13--16. Association for
+  Computational Linguistics.
+
+\bibitem[{Davidov et~al.(2010)Davidov, Tsur, and
+  Rappoport}]{davidov2010enhanced}
+Dmitry Davidov, Oren Tsur, and Ari Rappoport. 2010.
+\newblock Enhanced sentiment learning using twitter hashtags and smileys.
+\newblock In \emph{Proceedings of the 23rd international conference on
+  computational linguistics: posters}, pages 241--249. Association for
+  Computational Linguistics.
+
+\bibitem[{Hofmann(1999)}]{hofmann1999probabilistic}
+Thomas Hofmann. 1999.
+\newblock Probabilistic latent semantic analysis.
+\newblock In \emph{Proceedings of the Fifteenth conference on Uncertainty in
+  artificial intelligence}, pages 289--296. Morgan Kaufmann Publishers Inc.
+
+\bibitem[{Hu and Liu(2004)}]{hu2004mining}
+Minqing Hu and Bing Liu. 2004.
+\newblock Mining and summarizing customer reviews.
+\newblock In \emph{Proceedings of the tenth ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 168--177. ACM.
+
+\bibitem[{Jakob and Gurevych(2010)}]{jakob2010extracting}
+Niklas Jakob and Iryna Gurevych. 2010.
+\newblock Extracting opinion targets in a single-and cross-domain setting with
+  conditional random fields.
+\newblock In \emph{Proceedings of the 2010 conference on empirical methods in
+  natural language processing}, pages 1035--1045. Association for Computational
+  Linguistics.
+
+\bibitem[{Jin et~al.(2009)Jin, Ho, and Srihari}]{jin2009novel}
+Wei Jin, Hung~Hay Ho, and Rohini~K Srihari. 2009.
+\newblock A novel lexicalized hmm-based learning framework for web opinion
+  mining.
+\newblock In \emph{Proceedings of the 26th annual international conference on
+  machine learning}, pages 465--472. Citeseer.
+
+\bibitem[{Luo et~al.(2019)Luo, Xu, Zhang, Ren, and Sun}]{pkuseg}
+Ruixuan Luo, Jingjing Xu, Yi~Zhang, Xuancheng Ren, and Xu~Sun. 2019.
+\newblock \href {https://arxiv.org/abs/1906.11455} {Pkuseg: A toolkit for
+  multi-domain chinese word segmentation.}
+\newblock \emph{CoRR}, abs/1906.11455.
+
+\bibitem[{Mukherjee and Liu(2012)}]{mukherjee2012aspect}
+Arjun Mukherjee and Bing Liu. 2012.
+\newblock Aspect extraction through semi-supervised modeling.
+\newblock In \emph{Proceedings of the 50th annual meeting of the association
+  for computational linguistics: Long papers-volume 1}, pages 339--348.
+  Association for Computational Linguistics.
+
+\bibitem[{Steyvers and Griffiths(2007)}]{steyvers2007probabilistic}
+Mark Steyvers and Tom Griffiths. 2007.
+\newblock Probabilistic topic models.
+\newblock \emph{Handbook of latent semantic analysis}, 427(7):424--440.
+
+\bibitem[{Sun et~al.(2019)Sun, Wang, Li, Feng, Tian, Wu, and
+  Wang}]{sun2019ernie}
+Yu~Sun, Shuohuan Wang, Yukun Li, Shikun Feng, Hao Tian, Hua Wu, and Haifeng
+  Wang. 2019.
+\newblock Ernie 2.0: A continual pre-training framework for language
+  understanding.
+\newblock \emph{arXiv preprint arXiv:1907.12412}.
+
+\bibitem[{Tang et~al.(2014)Tang, Wei, Qin, Liu, and
+  Zhou}]{tang-etal-2014-coooolll}
+Duyu Tang, Furu Wei, Bing Qin, Ting Liu, and Ming Zhou. 2014.
+\newblock \href {https://doi.org/10.3115/v1/S14-2033} {{C}oooolll: A deep
+  learning system for twitter sentiment classification}.
+\newblock In \emph{Proceedings of the 8th International Workshop on Semantic
+  Evaluation ({S}em{E}val 2014)}, pages 208--212, Dublin, Ireland. Association
+  for Computational Linguistics.
+
+\bibitem[{Wang and Liu(2015)}]{wang2015deep}
+Bo~Wang and Min Liu. 2015.
+\newblock Deep learning for aspect-based sentiment analysis.
+\newblock \emph{Stanford University report}.
+
+\bibitem[{Wei and Zou(2019)}]{wei2019eda}
+Jason~W Wei and Kai Zou. 2019.
+\newblock Eda: Easy data augmentation techniques for boosting performance on
+  text classification tasks.
+\newblock \emph{arXiv preprint arXiv:1901.11196}.
+
+\bibitem[{Xu et~al.(2019)Xu, Wang, Niu, Wu, and Che}]{xu2019key}
+Jun Xu, Haifeng Wang, Zhengyu Niu, Hua Wu, and Wanxiang Che. 2019.
+\newblock A key-phrase aware end2end neural response generation model.
+\newblock In \emph{CCF International Conference on Natural Language Processing
+  and Chinese Computing}, pages 65--77. Springer.
+
+\bibitem[{Zeng et~al.(2014)Zeng, Liu, Lai, Zhou, Zhao
+  et~al.}]{zeng2014relation}
+Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou, Jun Zhao, et~al. 2014.
+\newblock Relation classification via convolutional deep neural network.
+
+\bibitem[{Zhai et~al.(2010)Zhai, Liu, Xu, and Jia}]{zhai2010grouping}
+Zhongwu Zhai, Bing Liu, Hua Xu, and Peifa Jia. 2010.
+\newblock Grouping product features using semi-supervised learning with
+  soft-constraints.
+\newblock In \emph{Proceedings of the 23rd international conference on
+  computational linguistics}, pages 1272--1280. Association for Computational
+  Linguistics.
+
+\bibitem[{刘丽 et~al.(2015)刘丽, 王永恒, and
+  韦航}]{刘丽2015面向产品评论的细粒度情感分析}
+刘丽, 王永恒, and 韦航. 2015.
+\newblock 面向产品评论的细粒度情感分析.
+\newblock \emph{计算机应用}, 35(12):3481--3486.
+
+\bibitem[{许力波(2013)}]{许力波2013产品评价对象与情感词搭配关系的抽取}
+许力波. 2013.
+\newblock \emph{产品评价对象与情感词搭配关系的抽取 [D]}.
+\newblock Ph.D. thesis, 北京邮电大学.
+
+\end{thebibliography}
