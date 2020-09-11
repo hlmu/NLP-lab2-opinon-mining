@@ -1,0 +1,8 @@
+paddlehub==1.3.0
+paddlepaddle==1.5.1
+pkuseg==0.0.22
+pyltp==0.2.1
+python-crfsuite==0.9.6
+sklearn==0.0
+sklearn-crfsuite==0.3.6
+synonyms==3.10.2
